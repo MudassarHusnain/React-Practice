@@ -1,0 +1,37 @@
+.signInB{
+   position: absolute;
+   right: 20%;
+   top: 20%;
+}
+.signinImg{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+.elable{
+    color: #8d8d8d;
+    position: absolute;
+    top: 27px;
+    left: 55px;
+    background: #ffffff;
+    transition: 300ms;
+    transform: translate(-50%, -50%);
+}
+.inputs{
+border: none;
+border-bottom: 1px solid #ced4da; /* Set the bottom border */
+border-radius: 0; 
+}
+.custom-heading {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    right: 10%;
+  }
+.inputs:active{
+    border: none;
+    border-bottom: 1px solid #ced4da; /* Set the bottom border */
+    border-radius: 0; 
+}
+.singinpage{
+  border: 10px black;
+}
